@@ -1,0 +1,9 @@
+processed_patients/
+patches_binary/
+models/
+*.npy
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.log
